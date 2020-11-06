@@ -8,11 +8,11 @@ This problem set is a work of fan fiction. Hermione Granger and related characte
 
 ## Honor Code
 
-Edit this section to include a statement of the Honor Code.
+On my honor, I have not witnessed, given, nor received any unauthorized assistance on this work. -Christian Huber
 
 ## List Your Team Members
 
-Edit this section to include a list of everyone on your team.
+Fritz Paz, Noah Harvey, Hiroki Sato
 
 ## Instructions
 
